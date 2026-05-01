@@ -1,0 +1,103 @@
+[
+    {
+        "id": "talk1",
+        "title": "Introduction to Generative AI",
+        "speakers": [
+            "Dr. Anya Sharma"
+        ],
+        "categories": [
+            "AI",
+            "Machine Learning"
+        ],
+        "duration": 60,
+        "description": "An overview of the latest advancements in generative artificial intelligence and its applications.",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM"
+    },
+    {
+        "id": "talk2",
+        "title": "Building Scalable Microservices with Node.js",
+        "speakers": [
+            "John Doe",
+            "Jane Smith"
+        ],
+        "categories": [
+            "Backend",
+            "Node.js",
+            "Architecture"
+        ],
+        "duration": 60,
+        "description": "Learn best practices for designing and deploying scalable microservices using Node.js.",
+        "startTime": "11:10 AM",
+        "endTime": "12:10 PM"
+    },
+    {
+        "id": "talk3",
+        "title": "Frontend Frameworks: A Comparative Analysis",
+        "speakers": [
+            "Alice Johnson"
+        ],
+        "categories": [
+            "Frontend",
+            "JavaScript"
+        ],
+        "duration": 60,
+        "description": "A deep dive into popular frontend frameworks like React, Angular, and Vue.js, discussing their strengths and weaknesses.",
+        "startTime": "12:20 PM",
+        "endTime": "01:20 PM"
+    },
+    {
+        "id": "lunch",
+        "title": "Lunch Break",
+        "startTime": "01:30 PM",
+        "endTime": "02:30 PM",
+        "isBreak": true
+    },
+    {
+        "id": "talk4",
+        "title": "Cloud Native Development with Kubernetes",
+        "speakers": [
+            "Bob Williams"
+        ],
+        "categories": [
+            "DevOps",
+            "Cloud",
+            "Kubernetes"
+        ],
+        "duration": 60,
+        "description": "Explore how to build and deploy cloud-native applications using Kubernetes for orchestration.",
+        "startTime": "02:30 PM",
+        "endTime": "03:30 PM"
+    },
+    {
+        "id": "talk5",
+        "title": "Data Security in the Age of AI",
+        "speakers": [
+            "Dr. Emily Chen"
+        ],
+        "categories": [
+            "Security",
+            "AI",
+            "Ethics"
+        ],
+        "duration": 60,
+        "description": "Understanding the challenges and solutions for maintaining data security and privacy in AI-driven systems.",
+        "startTime": "03:40 PM",
+        "endTime": "04:40 PM"
+    },
+    {
+        "id": "talk6",
+        "title": "The Future of Web Assembly",
+        "speakers": [
+            "Michael Brown"
+        ],
+        "categories": [
+            "Web",
+            "Performance"
+        ],
+        "duration": 60,
+        "description": "A look into the evolving landscape of Web Assembly and its potential to revolutionize web development.",
+        "startTime": "04:50 PM",
+        "endTime": "05:50 PM"
+    }
+]
